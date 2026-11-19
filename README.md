@@ -56,10 +56,11 @@ The main objectives of this project are to:
 
 #Screenshots
 
-![](Task-Module-1.png)
-![](Task-2-Result.png)
-![](others-1.png)
-![](others-2.png)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
 
 ## 💡 What I Learned
 
